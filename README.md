@@ -1,7 +1,8 @@
 # Rock Paper Scissors ✊✋✌️
 
-A fun and interactive **Rock-Paper-Scissors** game built with **HTML, CSS, and JavaScript**.  
-Challenge the computer, make your move, and see who wins!
+Rock Paper Scissors is a simple web-based game built with HTML, CSS, and JavaScript.
+Players compete against the computer with randomized choices.
+It’s a fun project showcasing basic game logic, interactivity, and responsive design.
 
 **Live Demo:** [Play Here](https://papri221003.github.io/Rock_Paper_Scissors/)
 
