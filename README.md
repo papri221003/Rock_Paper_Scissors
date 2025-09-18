@@ -23,9 +23,3 @@ Challenge the computer, make your move, and see who wins!
 
 ---
 
-## 🚀 Getting Started
-
-### Clone the Repository
-```bash
-git clone https://github.com/your-username/rock-paper-scissors.git
-cd rock-paper-scissors
