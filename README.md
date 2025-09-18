@@ -1,22 +1,23 @@
 # Rock Paper Scissors ✊✋✌️
 
-A simple **Rock-Paper-Scissors** game where you can play against the computer.  
-This project is beginner-friendly and demonstrates basic game logic, randomness, and user interaction.
+A fun and interactive **Rock-Paper-Scissors** game built using **HTML, CSS, and JavaScript**.  
+Play against the computer and test your luck!
 
 ---
 
 ## 🎯 Features
-- Play against the computer
-- Randomized computer moves
-- Win/lose/draw result calculation
-- Easy to understand code structure
-- Beginner-friendly project
+- Play Rock, Paper, or Scissors against the computer
+- Randomized computer choices
+- Instant win/lose/draw results
+- Simple, responsive, and user-friendly interface
+- Pure HTML, CSS, and JavaScript (no frameworks)
 
 ---
 
 ## 🛠️ Technologies Used
-- Programming Language: **Java / Python / JavaScript** (update based on your project)
-- Random number generator for computer choice
-- (Optional) GUI with **Swing / Tkinter / React** if you used UI
+- **HTML5** – Structure of the game  
+- **CSS3** – Styling and layout  
+- **JavaScript (ES6)** – Game logic and interactivity  
 
 ---
+
